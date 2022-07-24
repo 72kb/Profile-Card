@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "teamMember": "Praise Olugbemi",
+        "from": "London, Uk",
+        "job": "",
+        "description": "6ft2, handsome tech bro",
+        "twitter": "https://twitter.com/glitch256bytes",
+        "bgimg": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample87.jpg",
+        "pfp": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/profile-sample4.jpg"
+    },
+    {
+        "id": 1,
+        "teamMember": "Leke Adesanya",
+        "from": "Frankfurt, Germany",
+        "job": "",
+        "description": "Will beat blue black in clash royale",
+        "twitter": "https://twitter.com/glitch256bytes",
+        "bgimg": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample74.jpg",
+        "pfp": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/profile-sample2.jpg"
+    },
+    {
+        "id": 2,
+        "teamMember": "Cash Jordan",
+        "from": "New York, USA",
+        "job": "",
+        "description": "Real Estate Agent, Married to a Japanese",
+        "twitter": "https://twitter.com/glitch256bytes",
+        "bgimg": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample69.jpg",
+        "pfp": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/profile-sample5.jpg"
+    },
+    {
+        "id": 3,
+        "teamMember": "Maya Hawke",
+        "from": "Los Angeles, USA",
+        "job": "",
+        "description": "Cast Stranger Things",
+        "twitter": "https://twitter.com/glitch256bytes",
+        "bgimg": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample74.jpg",
+        "pfp": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/profile-sample2.jpg"
+    }
+]
