@@ -13,6 +13,7 @@ const membersData = fs.readFileSync("./team-data/data.json", "utf-8");
 
 const membersDataArray = JSON.parse(membersData);
 
+//to set the slugs
 const slugs = membersDataArray.map((element) =>
   slugify(element.teamMember, { lower: true })
 );
