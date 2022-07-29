@@ -1,3 +1,4 @@
+//in this module, we are replacing the placeholders in the html scipts with our elements from our API/JSON file
 module.exports = (card, elements) => {
   let output = card.replaceAll("{%NAME%}", elements.teamMember);
   output = output.replaceAll("{%JOB%}", elements.job);
