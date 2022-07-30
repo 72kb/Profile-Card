@@ -17,7 +17,8 @@ const membersDataArray = JSON.parse(membersData);
 const slugs = membersDataArray.map((element) =>
   slugify(element.teamMember, { lower: true })
 );
-console.log(slugs);
+console.log(slugs
+            //havent been able to set slugs yet
 
 const server = http.createServer((req, res) => {
   const siteURL = `http://${req.headers.host}`;
@@ -44,6 +45,7 @@ const server = http.createServer((req, res) => {
   }
 });
 
+//to create server
 server.listen(8080, "127.0.0.1", () => {
   console.log("SERVER RUNNING @ PORT:8080");
 });
